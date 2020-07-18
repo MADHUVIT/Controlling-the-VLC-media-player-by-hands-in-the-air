@@ -1,1 +1,5 @@
 # Controlling-the-VLC-media-player-by-hands-in-the-air
+<h6>Abstract:</h6>
+<p>This paper describes my research on controlling computer as in playing games, increasing/decreasing volume, play/pause a video, drawing, autotyping etc..., by using our hands in the air without touching the mouse or the keyboard. Nowadays hand gesture controlled laptops are available but those are too costly. This project aims at using basic and cheap sensors and some programming for the same.</p>
+<h6>INTRODUCTION</h6>
+<p>This document is the final report of my ISOI summer project 2018. This project has been monitored by my seniors at Instrumentation society of India, A active student chapter in VIT, Vellore. This project mainly aims at controlling keyboard and mouse functionalities by a python script and the Arduino sketch. Extending the above concept and applying to control the VLC media player’s volume, forwarding/rewinding a video, play/pause a video without physically using the keyboard and mouse. The above mentioned is possible by a python program using pyautogui library, some sensors, and a microcontroller.</p>
